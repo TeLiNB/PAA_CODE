@@ -1,0 +1,26 @@
+# BE-GA-GAN: A Unified Evolutionary GAN Framework for Cross-modal Anomaly Detection
+
+This repository contains the official implementation of the paper **"BE-GA-GAN: A Unified Evolutionary GAN Framework for Cross-modal Anomaly Detection"**.
+
+## Repository Structure
+
+- **`BE-GA-GAN-IMAGE/`**:  
+  Code for image anomaly detection on the **MVTec AD** dataset.
+
+- **All other files and directories**:  
+  Code for tabular anomaly detection experiments on the **UCI** datasets.
+
+## Environment Requirements
+
+All code has been tested and runs under the following environment:
+- **Python 3.8**
+
+Additional dependencies (e.g., PyTorch, NumPy, scikit-learn, etc.) are listed in the respective subdirectories or can be installed as specified in the instructions within each folder.
+
+## Usage
+
+Please refer to the README files inside the `BE-GA-GAN-IMAGE/` directory and the root folder for dataset preparation, training, and evaluation instructions specific to each setting.
+
+---
+
+For questions or issues, please open an issue in this repository.
